@@ -1,6 +1,6 @@
 # 六角學院2023 JS直播班 - woowoo前台
 
-##DEMO
+## DEMO
 https://github.com/rochelwang1205/web-layout-training-vite/assets/128132742/ab5b3cea-fef9-42be-aa8e-c529503aa232
 
 ## 使用
