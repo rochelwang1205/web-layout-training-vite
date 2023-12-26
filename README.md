@@ -1,8 +1,11 @@
 # 六角學院2023 JS直播班 - woowoo前台
 
+##DEMO
+https://github.com/rochelwang1205/web-layout-training-vite/assets/128132742/ab5b3cea-fef9-42be-aa8e-c529503aa232
+
 ## 使用
-- 專案的 Node.js 版本需為 v16 以上
-  - 查看自己版本指令：`node -v`
+  - AJAX, Axios, JS
+
 ## Node.js 版本
   - 專案的 Node.js 版本需為 v16 以上
   - 查看自己版本指令：`node -v`
